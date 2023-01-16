@@ -5,6 +5,7 @@ class JavaFirst{
 		System.out.println("Uma Yerjal");
 		System.out.println("Aishwarya Annam");
 		System.out.println("Anjali Guda");
+		System.out.println("Shrutika Kadgi");
 		
 	}
 
